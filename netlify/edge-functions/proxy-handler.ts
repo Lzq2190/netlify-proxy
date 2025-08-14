@@ -25,7 +25,7 @@ const PROXY_CONFIG = {
   "/halo": "https://blog.gally.dpdns.org",
   "/kuma": "https://kuma.gally.dpdns.org",
   "/hf": "https://huggingface.co",
-  "/tv": "https://tv.gally.ddns-ip.net",
+  "/tv": "https://v.jfscn.com",
   "/news": "https://newsnow-ahm.pages.dev"
 };
 
